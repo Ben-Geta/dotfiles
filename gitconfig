@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = Ben.getaneh@gmail.com
+	email = ben.getaneh@gmail.com
 	name = Bemnet Getaneh
